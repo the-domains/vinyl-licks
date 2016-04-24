@@ -1,0 +1,28 @@
+name: Vinyl Licks
+favicon: null
+layout_spectrum: 0.09752455516718328
+typography_spectrum: 0.3965936286840588
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5659191282466054
+  lightness: 0.6100817734841257
+  saturation: 0.8422716003842652
+  rhythmicContrast: 0.29408299713395536
+purpose: []
