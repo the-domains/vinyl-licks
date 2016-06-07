@@ -1,6 +1,7 @@
 ---
-dateModified: '2016-06-07T22:46:47.494Z'
-description: 'Take a little trip, take a little trip.'
+dateModified: '2016-06-07T22:48:27.466Z'
+datePublished: '2016-06-07T22:48:36.163Z'
+description: 'Bob Dylan, a true love of mine.'
 inLanguage: en
 isBasedOnUrl: >-
   http://www.rollingstone.com/music/pictures/bob-dylan-see-rare-photos-from-1964-65-turning-point-20160603
@@ -22,7 +23,6 @@ publisher:
   url: 'http://www.rollingstone.com'
 title: 'Bob Dylan: See Rare Photos From 1964-65 Turning Point'
 author: []
-datePublished: '2016-06-07T22:46:57.264Z'
 starred: false
 sourcePath: _posts/2016-06-07-bob-dylan-see-rare-photos-from-1964-65-turning-point.md
 inFeed: true
@@ -34,4 +34,4 @@ _type: MediaObject
 ---
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ed79304a912d23580cd3033922a9e01de6aa2d3.jpg" /><h1>Bob Dylan: See Rare Photos From 1964-65 Turning Point</h1><p>Photographer Daniel Kramer had barely heard of Bob Dylan when he was booked to shoot the singer at a studio in Woodstock one day in 1964. "I was only supposed to have an hour with him, but I ended up shooting for five," Kramer remembers.</p></article>
 
-Take a little trip, take a little trip.
+Bob Dylan, a true love of mine.
